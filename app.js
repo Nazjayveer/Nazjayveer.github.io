@@ -56,7 +56,7 @@ function createGameArea() {
   var snakeX = snake[0].x;
   var snakeY = snake[0].y;
 
-  gameAreaContext.fillStyle = '#aabbfe';
+  gameAreaContext.fillStyle = '#c4e1b9';
   gameAreaContext.fillRect(0, 0, gameAreaWidth, gameAreaHeight);
 
   gameAreaContext.strokeStyle = '#c4e1b9';
