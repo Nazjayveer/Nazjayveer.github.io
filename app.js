@@ -59,7 +59,7 @@ function createGameArea() {
   gameAreaContext.fillStyle = '#aabbfe';
   gameAreaContext.fillRect(0, 0, gameAreaWidth, gameAreaHeight);
 
-  gameAreaContext.strokeStyle = '#000000';
+  gameAreaContext.strokeStyle = '#c4e1b9';
   gameAreaContext.strokeRect(0, 0, gameAreaWidth, gameAreaHeight);
 
   if (snakeDirection == 'right') {
